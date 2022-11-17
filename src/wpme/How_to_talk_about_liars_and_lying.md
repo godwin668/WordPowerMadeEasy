@@ -8,7 +8,7 @@
 ## 2. A consummate liar                :    说慌老手
 
 1. summus          					:	heightest  最高点
-	- consummate  					:	adj.圆满的, 完美的, 完全的 vt.完成, 使达到极点, 圆房（summus 是最高点的意思，这也是sum的出处，另外 to consummate=bring it to the heightest porint）
+	- consummate  					:	adj.圆满的, 完美的, 完全的 vt.完成, 使达到极点, 圆房（summus 是最高点的意思，这也是sum的出处，另外 to consummate=bring it to the heightest point）
 
 ## 3. An incorrigible liar             :     积习难改的骗子
 
