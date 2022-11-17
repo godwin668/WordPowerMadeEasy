@@ -47,7 +47,7 @@
 		1. hypos       :         下面，under
 	- dermatology    : 皮肤学
 	- epidermis       :  表皮
-	- taxidermist      :  剥皮师
+	- taxidermist      :  动物标本剥制师
 	- pachyderm       	:厚皮动物，厚脸皮的人
 	- dermatitis         :皮炎
 
