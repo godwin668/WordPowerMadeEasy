@@ -40,7 +40,7 @@
 		4. sinister 			:拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测
 		5. gauche 				:法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。
 		6. droit 				:法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 
-	- ambidextrity				:两手俱技巧独特
+	- ambidexterity				:两手俱技巧独特
 	
 ## 7.misanthrope 	:反人类
 
