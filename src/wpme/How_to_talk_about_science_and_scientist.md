@@ -83,7 +83,7 @@
 	- aphrodisiac       :   		n.春药 adj.引起性欲的
 	- philosophy        :   		哲学（爱+智慧）
 		1. sophos       :           智慧 wise
-	- philidaphia		: 			（美国）费城
+	- Philadelphia		: 			（美国）费城
 		1. adelphos     :         	兄弟 brother
 	- anglophile        :   		亲英派的人（英国的+爱）
 		1. anglus       :           英国的 english
